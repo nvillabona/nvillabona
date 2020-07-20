@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hi, I am Nicolás Villabona
+## (@n_villabona)
 
 I'm a sofware developer from Cali, Colombia.
 
 Informatics engineering student at Universidad Autónoma de Occidente.
+
+## My Skills
+
 
 <!--
 **nvillabona/nvillabona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
