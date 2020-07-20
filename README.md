@@ -7,4 +7,6 @@ Informatics engineering student at Universidad Autónoma de Occidente.
 ## My Skills
 <code><img src="https://img.icons8.com/color/40/000000/javascript.png"/></code> 
 <code><img src="https://img.icons8.com/color/40/000000/vue-js.png"/></code>
+<code><img src="https://img.icons8.com/color/40/000000/react-native.png"/> </code>
+<code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
 
