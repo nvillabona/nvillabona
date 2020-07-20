@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a sofware developer from Cali, Colombia.
+
+Informatics engineering student at Universidad Autónoma de Occidente.
+
 <!--
 **nvillabona/nvillabona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
