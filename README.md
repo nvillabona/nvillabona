@@ -10,4 +10,5 @@ Informatics engineering student at Universidad Autónoma de Occidente.
 <code><img src="https://img.icons8.com/color/40/000000/react-native.png"/> </code>
 <code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvillabona&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvillabona&theme=vue&layout=compact)
