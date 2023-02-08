@@ -1,6 +1,6 @@
 # Hi, I am Nicolás Villabona
 
-I'm a sofware developer from Cali, Colombia.
+I'm a frontend developer at Globant,  from Cali, Colombia.
 
 Informatics engineering student at Universidad Autónoma de Occidente.
 
